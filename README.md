@@ -2,6 +2,7 @@
 ### Py Me Up, Before You Go Go!
 This one was a lot of fun. Things I learnt:
 * Importing csv's and then reading and parsing data,
+* Using next() to both skip header row, or also to have the interpreter pause at a row so you can store data,
 * Lists & Dictionaries, including how to create a dictionary from csv column data,
 * How to use Python loops, and how to use some of the data itself to base the loop counter off of,
 * How to print complicated outputs to terminal and then to an output file too.
